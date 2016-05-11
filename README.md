@@ -1,2 +1,2 @@
 # hello-word
-First Time
+Hi I'am student in the area Computational physics
